@@ -31,7 +31,7 @@
 
 clear all; close all;clc;
 
-parentFolder = 'H:\My Drive\Ehsan\PPT Paper\Material'; 
+parentFolder = ''; 
 
 resultFolder = fullfile(parentFolder,'result');
 if ~exist(resultFolder,'dir') 
