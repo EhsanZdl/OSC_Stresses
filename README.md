@@ -1,0 +1,1 @@
+This script extract yield stress (τ_y) and flow-point stress (τ_f) from TA-TRIOS oscillatory amplitude sweep test excel extract file (*.xls) that sits in same folder of this file and generate a plot for each file.
